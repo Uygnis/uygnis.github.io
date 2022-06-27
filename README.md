@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to John's Project Dump
+
+Project Number 1: [Click Here](https://uygnis.github.io/uygnis)
 
 You can use the [editor on GitHub](https://github.com/Uygnis/uygnis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
